@@ -1,6 +1,6 @@
 # Anansh Srivastava
 
-ECE undergrad at DSCE, Bengaluru (class of 2028). I build Python projects
+ECE undergrad at DSCE, Bengaluru. I build Python projects
 in machine learning and data analysis.
 
 ## Projects
@@ -14,14 +14,13 @@ in machine learning and data analysis.
 - **[payshield-arena](https://github.com/Abhimoy-Mukherjee/payshield-arena)**
   24-hour hackathon project: a payment agent with and without the CaMeL
   defense, side by side. I built the backend. We created a working demo that highlights the working of our agent.
-- **Nirdhwani**: [one line on what it is]
+- **Nirdhwani**: A raspberry pi 4 based project that uses ML to clear out the dynamic noises and enables seamless communication in real time (however we couldn't confirm how accurate our results were because our raspberry pi 4 got faulty at the last moment)
 
 ## Skills
-Python · pandas · NumPy · [scikit-learn: confirm] · pytest · GitHub Actions
+Python · pandas · NumPy · scikit-learn · pytest · GitHub Actions
 
 ## Certifications
-WorldQuant BRAIN Gold [optional: drop this line if you don't want finance
-on the page]
+WorldQuant BRAIN Gold
 
 ## Contact
 - Email: ananshsrivastava.0x@gmail.com
