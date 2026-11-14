@@ -14,7 +14,12 @@ in machine learning and data analysis.
 - **[payshield-arena](https://github.com/Abhimoy-Mukherjee/payshield-arena)**
   24-hour hackathon project: a payment agent with and without the CaMeL
   defense, side by side. I built the backend. We created a working demo that highlights the working of our agent.
-- **Nirdhwani**: A raspberry pi 4 based project that uses ML to clear out the dynamic noises and enables seamless communication in real time (however we couldn't confirm how accurate our results were because our raspberry pi 4 got faulty at the last moment)
+- **[Nirdhwani](https://github.com/AnanshSrivastava/Nirdhwani)**
+  Real-time speech enhancement for noisy defense communications: a
+  fine-tuned DTLN deep learning model (TensorFlow, TFLite) running on a
+  Raspberry Pi 4, compared against a classical Wiener-filter baseline.
+  Smart India Hackathon 2026 (DRDO problem statement). In development.
+  (we couldn't confirm how accurate our results were because our raspberry pi 4 got faulty during testing)
 
 ## Skills
 Python · pandas · NumPy · scikit-learn · pytest · GitHub Actions
